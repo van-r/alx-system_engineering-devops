@@ -1,1 +1,1 @@
-Create a script that creates an alias.
+0x01-shell_permissions
